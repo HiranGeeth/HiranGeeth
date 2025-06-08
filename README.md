@@ -9,6 +9,6 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🤖 Robotic Arm Frontend](https://github.com/HiranGeeth/robotic-arm-frontend) | JavaScript frontend for controlling a robotic arm | JavaScript, HTML, CSS |
-| [📦 Backend for Robotic Arm](https://github.com/HiranGeeth/robotic-arm-backend) | Backend API for robotic arm control (assumed example) | Python, Flask |
-| [🔧 Tools Collection](https://github.com/HiranGeeth/tools) | Various scripts and utilities (update with real use case) | Python, Shell |
+| [🤖 Robot-Arm](https://github.com/HiranGeeth/Robot-Arm) | JS frontend for controlling a robotic arm via ESP32| JavaScript, HTML, CSS, C++ |
+| [📦 Line_Following_Robot](https://github.com/HiranGeeth/Line_Following_Robot) | Arduino based Line following robot | C++, Arduino |
+| [🔧 Heat-Controller-Project-MistOff](https://github.com/HiranGeeth/Heat-Controller-Project-MistOff) | Precise self heat controlling device | Arduino, C++ |
