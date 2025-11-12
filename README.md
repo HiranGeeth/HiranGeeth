@@ -12,3 +12,4 @@
 | [🤖 Robot-Arm](https://github.com/HiranGeeth/Robot-Arm) | JS frontend for controlling a robotic arm via ESP32| JavaScript, HTML, CSS, C++ |
 | [🛞 Line_Following_Robot](https://github.com/HiranGeeth/Line-Following-Robot) | Arduino based Line following robot | C++, Arduino |
 | [🌡️ Heat-Controller-Project-MistOff](https://github.com/HiranGeeth/Heat_Controller_Project_MistOff) | Precise self heat controlling device | Arduino, C++ |
+| [🌡️ Hospital Management System](https://github.com/HiranGeeth/Hospital_Management_System) | Iot based vital managing system | JavaScript, HTML, CSS, C++ |
