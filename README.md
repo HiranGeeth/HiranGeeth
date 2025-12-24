@@ -6,6 +6,7 @@
 
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HiranGeeth&layout=compact&theme=radical)
+![Metrics](/github-metrics.svg)
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
