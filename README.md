@@ -11,7 +11,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [ 📡 AI-based-network-failure-prediction](https://github.com/HiranGeeth/AI_based_network_failure_prediction) |Predicting node failures with failing time estimation | python |
+| [ 📡 AI-based-network-failure-prediction](https://github.com/HiranGeeth/AI_based_network_failure_prediction) |Predicting node failures with failing time estimation using XGBoost (gradient) time-series regression | python |
 | [🤖 👉 Front-End–to–Edge Networked Robotic Control Framework](https://github.com/HiranGeeth/Robot-Arm) | JS frontend for controlling a robotic arm via ESP32 backend along with other functions| JavaScript, HTML, CSS, C++ |
 | [🛞 Line_Following_Robot](https://github.com/HiranGeeth/Line-Following-Robot) | Arduino based Line following robot | C++, Arduino |
 | [🌡️ Automatic-Heat-Controller-Project-MistOff](https://github.com/HiranGeeth/Heat_Controller_Project_MistOff) | Precise self heat controlling device | Arduino, C++ |
