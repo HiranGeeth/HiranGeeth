@@ -11,7 +11,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [ 📡 AI-based-network-failure-prediction](https://github.com/HiranGeeth/AI_based_network_failure_prediction) |Predicting node failures with failing time estimation using XGBoost (gradient) time-series regression with 90% accuracy | python |
+| [ 📡 AI-based-network-failure-prediction-model](https://github.com/HiranGeeth/AI_based_network_failure_prediction) |Predicting node failures with failing time estimation using XGBoost (gradient) time-series regression with 90% accuracy | python |
 | [🌊 RescueMesh-Disaster-Rescue_Long-Range-Communication-System](https://github.com/HiranGeeth/RescueMesh-Flood_Rescue_LoRa_System) | Long Range self healing WAN Network for Rescue SOS Passing, AI based filtering, Rescue dashboard, Database, Backend | JavaScript, CSS, C++, Arduino, Python |
 | [🤖 👉 Front-End–to–Edge Networked Robotic Control Framework](https://github.com/HiranGeeth/Robot-Arm) | JS frontend for controlling a robotic arm via ESP32 backend along with other functions| JavaScript, HTML, CSS, C++ |
 | [🛞 Line_Following_Robot](https://github.com/HiranGeeth/Line-Following-Robot) | Arduino based Line following robot | C++, Arduino |
