@@ -12,6 +12,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [ 📡 AI-based-network-failure-prediction-model](https://github.com/HiranGeeth/AI_based_network_failure_prediction) |Predicting node failures with failing time estimation using XGBoost (gradient) time-series regression with 90% accuracy | python |
+| [ 📱 4G-Enterprise-Network-OSPF-NAT](https://github.com/HiranGeeth/packet-tracer-enterprise-ISP-network) | Multi-area OSPF enterprise network with 3G/4G cellular backhaul, PAT/NAT internet gateway, and WPA2-secured wireless LAN for branch office deployment | Cisco Packet Tracer, OSPF, NAT, DHCP, WPA2 |
 | [ 🛜 AI-based-Radio-Mapping-AIRMAP](https://github.com/A-Deshan148/AIRMAP) |AI-driven telemetry system that collects RSSI data, generate coverage heatmaps and model signal propagation using machine learning | python |
 | [🌊 RescueMesh-Disaster-Rescue_Long-Range-Communication-System](https://github.com/HiranGeeth/RescueMesh-Flood_Rescue_LoRa_System) | Long Range self healing WAN Network for Rescue SOS Passing, AI based filtering, Rescue dashboard, Database, Backend | JavaScript, CSS, C++, Arduino, Python |
 | [🤖 👉 Front-End–to–Edge Networked Robotic Control Framework](https://github.com/HiranGeeth/Robot-Arm) | JS frontend for controlling a robotic arm via ESP32 backend along with other functions| JavaScript, HTML, CSS, C++ |
