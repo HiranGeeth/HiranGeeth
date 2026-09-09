@@ -11,6 +11,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [ ᯤ SDR-Spectrum-Analysis-AI](https://github.com/HiranGeeth/SDR-Spectrum-Analysis-AI) | RTL-SDR-v3 based Real-Time RF modulation classifier + Spectrum Analyzer that use a hybrid CNN-Random Forest ensemble | Python, TensorFlow, Scikit-learn, RTL-SDR, Streamlit, NumPy, SciPy |
 | [ 📡 AI-based-network-failure-prediction-model](https://github.com/HiranGeeth/AI_based_network_failure_prediction) |Predicting node failures with failing time estimation using XGBoost (gradient) time-series regression with 90% accuracy | python, XGBoost Regression Model |
 | [🔍 Fiber-Optic-Attenuation-Limited-Length-Optimization](https://github.com/HiranGeeth/Fiber_Attenuation_OptiPerformer_Simulation) |Determined maximum attenuation-limited length (118.6 km) for 2.5 Gb/s G.652 SMF, achieving Q=6 (BER=10⁻⁹) via iterative OptiPerformer simulation - 2.4 km shorter than theoretical prediction | OptiPerformer, Fiber, Power Budget Analysis |
 | [ 📱 4G-Enterprise-Network-OSPF-NAT](https://github.com/HiranGeeth/packet-tracer-enterprise-ISP-network) | Multi-area OSPF enterprise network with 3G/4G cellular backhaul, PAT/NAT internet gateway, and WPA2-secured wireless LAN for branch office deployment | Cisco Packet Tracer, OSPF, NAT, DHCP, WPA2 |
