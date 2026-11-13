@@ -11,7 +11,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 📶 HFSS-3x3-Patch-Array-Beamforming | 5G Sub-6GHz phased antenna array design in Ansys HFSS featuring 3x3 probe-fed microstrip patches; demonstrates electronic beamforming via progressive phase excitation using FADDM solver for rapid full-wave array synthesis | Ansys HFSS, FADDM, Phased Arrays, Beamforming, 5G Sub-6GHz |
+| [📶 HFSS-3x3-Patch-Array-Beamforming](https://github.com/HiranGeeth/Ansys-HFSS-3x3-Patch-Array-Beamforming) | 5G Sub-6GHz phased antenna array design in Ansys HFSS featuring 3x3 probe-fed microstrip patches; demonstrates electronic beamforming via progressive phase excitation using FADDM solver for rapid full-wave array synthesis | Ansys HFSS, FADDM, Phased Arrays, Beamforming, 5G Sub-6GHz |
 | [ ᯤ SDR-Spectrum-Analysis-AI](https://github.com/HiranGeeth/SDR-Spectrum-Analysis-AI) | RTL-SDR-v3 based Real-Time RF modulation classifier + Spectrum Analyzer that use a hybrid CNN-Random Forest ensemble | Python, TensorFlow, Scikit-learn, RTL-SDR, Streamlit, NumPy, SciPy |
 | [ ✈ Wideband-FM-Multipath-Capture](https://github.com/HiranGeeth/Wideband-FM-Multipath-Interference-Capture-SDRv3) | RTL-SDR V3 + V-dipole wideband FM multipath study - 7 dB SNR enhancement over ~2 s from coherent two-ray interference from Aircraft Reflection| RTL-SDR v3 |
 | [ 📡 AI-based-network-failure-prediction-model](https://github.com/HiranGeeth/AI_based_network_failure_prediction) |Predicting node failures with failing time estimation using XGBoost (gradient) time-series regression with 90% accuracy | python, XGBoost Regression Model |
